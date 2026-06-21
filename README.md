@@ -1,1 +1,1 @@
-<div align="center">![Bullfinch](BullfinchText.png)</div>
+![Bullfinch](BullfinchText.png)
