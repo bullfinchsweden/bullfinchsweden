@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="BullfinchText.png" width="100%">
+  <img src="BullfinchText.png" alt="Description">
 </div>
