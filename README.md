@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="BullfinchText.png">
+  <img src="BullfinchText.jpg">
 </div>
